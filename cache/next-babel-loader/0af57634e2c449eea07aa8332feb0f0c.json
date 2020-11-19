@@ -1,1 +1,0 @@
-{"ast":null,"code":"export default function DefaultLayout({\n  children,\n  frontMatter\n}) {\n  return null;\n}","map":null,"metadata":{},"sourceType":"module"}

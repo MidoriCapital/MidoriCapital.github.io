@@ -1,1 +1,0 @@
-{"ast":null,"code":"export default function DefaultLayout(_ref) {\n  var children = _ref.children,\n      frontMatter = _ref.frontMatter;\n  return null;\n}","map":null,"metadata":{},"sourceType":"module"}
