@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://midoricapital.uk
+Sitemap: https://midoricapital.uk/sitemap.xml
