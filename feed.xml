@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>midori.investors@gmail.com (Midori Capital UK)</managingEditor>
       <webMaster>midori.investors@gmail.com (Midori Capital UK)</webMaster>
-      <lastBuildDate>Tue, 12 Dec 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 01 Jan 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://midoricapital.uk/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://midoricapital.uk/blog/timing-vs-time-in-the-market</guid>
+    <title>Time in the Market</title>
+    <link>https://midoricapital.uk/blog/timing-vs-time-in-the-market</link>
+    <description>Warren Buffet said once: Time in the Market always beats Timing the Market. Is he right?</description>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+    <author>midori.investors@gmail.com (Midori Capital UK)</author>
+    <category>statistics</category>
+  </item>
+
   <item>
     <guid>https://midoricapital.uk/blog/the-short-index</guid>
     <title>The Short Index</title>

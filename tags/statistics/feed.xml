@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Midori Capital UK</title>
+      <link>https://midoricapital.uk/blog</link>
+      <description>Midori Capital Homepage</description>
+      <language>en-us</language>
+      <managingEditor>midori.investors@gmail.com (Midori Capital UK)</managingEditor>
+      <webMaster>midori.investors@gmail.com (Midori Capital UK)</webMaster>
+      <lastBuildDate>Mon, 01 Jan 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://midoricapital.uk/tags/statistics/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://midoricapital.uk/blog/timing-vs-time-in-the-market</guid>
+    <title>Time in the Market</title>
+    <link>https://midoricapital.uk/blog/timing-vs-time-in-the-market</link>
+    <description>Warren Buffet said once: Time in the Market always beats Timing the Market. Is he right?</description>
+    <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+    <author>midori.investors@gmail.com (Midori Capital UK)</author>
+    <category>statistics</category>
+  </item>
+
+    </channel>
+  </rss>
